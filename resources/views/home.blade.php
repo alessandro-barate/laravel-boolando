@@ -1,5 +1,9 @@
 @extends('layouts.app');
 
+@section('home-title')
+    Il tuo shopping con Laravel
+@endsection
+
 @section('main')
     <div class="container">
         <div class="margin-top d-flex wrap">
